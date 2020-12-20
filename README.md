@@ -1,1 +1,1 @@
-This 'GitHub Pages' webpage will be used to host a JSON file of Web URLs, which are to be used in my CasiDave Calcutron project. 
+This 'GitHub Pages' webpage will be used to host a JSON file of Web URLs, which are to be used in my CasiDave Calcutron project. These are found inside of the 'data' directory and the file is called 'WebUrls.json'
