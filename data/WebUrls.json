@@ -3,6 +3,6 @@
    "DivideURL": "http://webcalc-divide.40155549.qpc.hal.davecutting.uk",
    "MinusURL": "http://webcalc-subtract.40155549.qpc.hal.davecutting.uk",
    "FactorialURL": "http://webcalc-factorial.40155549.qpc.hal.davecutting.uk",
-   "MultiplyURL": "http://webcalc-multiply.40155549.qpc.hal.davecutting.uk",
+   "MultiplyURL": "https://us-central1-multiply-function-gcp.cloudfunctions.net/multiply_http",
    "SqrtURL": "http://webcalc-sqrt.40155549.qpc.hal.davecutting.uk" 
 }
