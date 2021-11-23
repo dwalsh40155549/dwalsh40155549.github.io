@@ -1,0 +1,8 @@
+{"WebServiceURLs":[
+  { "service":"wordcount", "address":"http://editor-wordcount.40155549.qpc.hal.davecutting.uk"},
+  { "service":"charcount", "address":"http://editor-charcount.40155549.qpc.hal.davecutting.uk"},
+  { "service":"spacecount", "address":"http://editor-spacecount.40155549.qpc.hal.davecutting.uk"},
+  { "service":"wordlength", "address":"http://editor-wordlength.40155549.qpc.hal.davecutting.uk"},
+  { "service":"andcount", "address":"http://editor-andcount.40155549.qpc.hal.davecutting.uk"},
+  { "service":"vowelcount", "address":"https://us-central1-editor-40155549.cloudfunctions.net/vowel-count"}
+]}
